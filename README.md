@@ -2,4 +2,4 @@
 ### Hi there 👋 I'm Darryll Fonseca
 
 🎓 CS Grad | 🔐 Cybersecurity Enthusiast | 🤖 AI Explorer  
-📫 Reach me: [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/darryll-fonseca/)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/darryll-fonseca/)
