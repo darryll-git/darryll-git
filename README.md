@@ -6,7 +6,7 @@
 
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://tenor.com/view/laptop-gif-26065234" width="400"/>
 </p>
 
 ---
