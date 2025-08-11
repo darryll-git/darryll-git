@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Darryll Fonseca</h1>
-<h3 align="center">🚀 Software Engineer | ML Enthusiast | UiPath Developer</h3>
+<h3 align="center">🚀 Software Engineer | AI Enthusiast | Web Developer</h3>
 
 ---
 
@@ -37,23 +37,6 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy)
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darryllfonseca&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darryllfonseca&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-<!-- Activity Graph -->
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darryllfonseca&theme=github" />
-</p>
 
 ---
 
