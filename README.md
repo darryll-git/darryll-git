@@ -3,3 +3,5 @@
 
 🎓 CS Grad | 🔐 Cybersecurity Enthusiast | 🤖 AI Explorer  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/darryll-fonseca/)
+![GitHub followers](https://img.shields.io/github/followers/darryllfonseca?style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
