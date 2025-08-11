@@ -32,10 +32,10 @@
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
-![UiPath](https://img.shields.io/badge/-UiPath-blue?logo=uipath)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure)
 ![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy)
 
 ---
