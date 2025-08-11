@@ -13,9 +13,15 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/darryllfonseca?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
-  <img src="https://img.shields.io/badge/Portfolio-Visit-orange" alt="Portfolio"/>
+  <a href="https://www.linkedin.com/in/darryll-fonseca/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/darryll-git/">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
