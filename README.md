@@ -51,8 +51,8 @@
 
 | Project | Description | ⭐ Stars |
 |---------|-------------|---------|
-| [3D Mesh Reconstruction](https://github.com/yourrepo) | Pipeline for 3D reconstruction from images/videos | ⭐⭐⭐⭐ |
-| [UiPath Automation Suite](https://github.com/yourrepo) | End-to-end automation workflows for business tasks | ⭐⭐⭐ |
+| [Website Summarizer](https://github.com/darryll-git/Website-Summarizer) | Summarize any website with ease | ⭐⭐⭐⭐ |
+| [Website Vulnerability Detection](https://github.com/darryll-git/Website-Vulnerability-Checker) | Check for any vulnerabilities in your website | ⭐⭐⭐ |
 | [Amazon Scraper](https://github.com/yourrepo) | Automated product data extraction from Amazon | ⭐⭐⭐⭐ |
 
 ---
