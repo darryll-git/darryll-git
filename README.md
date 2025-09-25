@@ -6,7 +6,7 @@
 
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVpbnR2MHcwZHVnaDg3NjMwd20yNHhseHozamZuOGc0bHZsaHQxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="400"/>
+  <img src="https://tenor.com/en-GB/view/hollow-knight-the-radiance-radiance-gif-23416069" width="400"/>
 </p>
 
 ---
