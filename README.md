@@ -6,7 +6,7 @@
 
 <!-- Banner GIF -->
 <p align="center">
-  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVraHdpdGpjMTh0MWF6MDJmdWMyZXJtYnlsZnNodmNsMjRsenZlaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KufI7NaMR1Epa/giphy.gif width="400"/>
+  <img src="https://i.pinimg.com/1200x/08/a7/3c/08a73c33d869cb5acd157c8095399e22.jpg" width="400"/>
 </p>
 
 ---
