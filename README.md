@@ -36,13 +36,13 @@
 
 <!-- Tech Stack -->
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-333?logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)
-![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy)
+[![Python](https://img.shields.io/badge/-Python-333?logo=python)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)](https://isocpp.org/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-333?logo=pytorch)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)](https://www.tensorflow.org/)
+[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
+[![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy)](https://scrapy.org/)
 
 ---
 
