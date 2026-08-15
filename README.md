@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Darryll Fonseca</h1>
-<h3 align="center">🚀 Software Engineer | AI Enthusiast | Web Developer</h3>
+<h3 align="center">🚀 Software Engineer | AI Enthusiast | Tech Consultant</h3>
 
 ---
 
