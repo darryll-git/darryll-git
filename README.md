@@ -17,8 +17,8 @@
 
 ### 🌟 About Me
 - 🧠 **Focus:** Designing intelligent autonomous systems, agentic RAG architectures, and predictive modeling platforms.
-- 🏢 **Experience:** Applied AI, medical image analysis, combinatorial optimization, and web security.
-- 📍 **Location:** Warwick, United Kingdom
+- 🏢 **Experience:** Applied AI, medical image analysis, combinatorial optimization, and quantitative analytics.
+- 📍 **Location:** Mumbai, India
 
 ---
 
@@ -27,8 +27,8 @@
 | Area | Technologies |
 |---|---|
 | **AI / Machine Learning** | Python, PyTorch, LangGraph, Groq Vision LLMs, RAG, Scikit-Learn |
-| **Statistical Modeling & Data** | R (Shiny, Tidyverse, Tidymodels), Pandas, NumPy |
-| **Web & App Development** | TypeScript, React, Vite, Node.js, Streamlit, HTML5/CSS3 |
+| **Quantitative & Statistical** | FastAPI, R (Shiny, Tidymodels), Pandas, NumPy, PyArrow, yfinance |
+| **Web & App Development** | TypeScript, React, Vite, Node.js, Streamlit, Monaco Editor, Tailwind CSS |
 | **DevOps & Infrastructure** | Docker, Docker Compose, Git, Linux, GitHub Actions |
 
 ---
@@ -37,16 +37,16 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| 📈 **[Quant: Algorithmic Backtesting Terminal](https://github.com/darryll-git/Quant)** | High-performance quantitative trading workspace with in-browser Monaco code editor, TradingView charts, and vectorized Python backtesting engine. | React, TypeScript, FastAPI, PyArrow, SSE |
 | 🩻 **[AI Chest X-Ray Analyzer](https://github.com/darryll-git/xray-report)** | Automated radiological reporting and abnormality detection powered by Vision LLMs and multimodal ML. | Python, Groq Vision, ML, FastAPI |
 | 🔄 **[Reflective-RAG Assistant](https://github.com/darryll-git/reflective-rag)** | Self-evaluating agentic RAG system that detects hallucinations and performs cyclic retrieval refinement. | Python, LangGraph, Vector DB |
 | 📊 **[Predictive Market Intelligence](https://github.com/darryll-git/The-Predictive-Market-Intelligence-Suite)** | End-to-end econometric modeling suite with interactive analytical dashboards and automated deployment. | R, Shiny, Tidymodels, Docker |
 | ⚙️ **[Intelligent Resource Optimizer](https://github.com/darryll-git/The-Intelligent-Resource-Scheduling-Optimizer)** | AI-enhanced constraint-satisfaction scheduling optimizer designed for low-budget hardware. | Python, n8n, Solver, Docker |
-| 🛡️ **[Website Vulnerability Checker](https://github.com/darryll-git/Website-Vulnerability-Checker)** | Automated asset crawler and security scanner for common web vulnerabilities. | Node.js, JavaScript |
 
 ---
 
 <p align="center">
-  💬 Let's talk about <b>Agentic AI, Operations Research, or Quantitative Analytics</b>!  
+  💬 Let's talk about <b>Quantitative Finance, Agentic AI, or Systems Architecture</b>!  
   <br>
   📫 Reach me directly at: <a href="mailto:darryllfonseca@gmail.com"><b>darryllfonseca@gmail.com</b></a>
 </p>
