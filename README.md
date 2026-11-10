@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Darryll Fonseca</h1>
-<h3 align="center">🚀 AI & Machine Learning Engineer | Full-Stack Developer | Systems Thinker</h3>
+<h3 align="center">🚀 AI & Machine Learning Researcher | Quantitative Systems | Full-Stack Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/darryll-fonseca/">
@@ -16,20 +16,21 @@
 ---
 
 ### 🌟 About Me
-- 🧠 **Focus:** Designing intelligent autonomous systems, agentic RAG architectures, and predictive modeling platforms.
-- 🏢 **Experience:** Applied AI, medical image analysis, combinatorial optimization, and quantitative analytics.
+- 🧠 **Research & Focus:** Mechanistic interpretability, functional valence in digital minds, agentic RAG architectures, and algorithmic financial systems.
+- 🏢 **Experience:** Medical imaging AI, econometrics & predictive modeling, combinatorial optimization, and high-performance reactive full-stack engineering.
 - 📍 **Location:** Mumbai, India
 
 ---
 
 ### 🛠 Tech Stack
 
-| Area | Technologies |
+| Domain | Technologies |
 |---|---|
-| **AI / Machine Learning** | Python, PyTorch, LangGraph, Groq Vision LLMs, RAG, Scikit-Learn |
-| **Quantitative & Statistical** | FastAPI, R (Shiny, Tidymodels), Pandas, NumPy, PyArrow, yfinance |
-| **Web & App Development** | TypeScript, React, Vite, Node.js, Streamlit, Monaco Editor, Tailwind CSS |
-| **DevOps & Infrastructure** | Docker, Docker Compose, Git, Linux, GitHub Actions |
+| **AI Research & Deep Learning** | Python 3.12, PyTorch (SDPA, bfloat16), Mechanistic Probing & Activation Addition, Groq Vision, Hugging Face, `uv` |
+| **Agentic AI & LLM Systems** | LangGraph, Self-Reflective RAG, Vector Databases, Async OpenAI/OpenRouter |
+| **Quantitative & Statistical Modeling** | R (Shiny, Tidymodels, Tidyverse), FastAPI, NumPy, Pandas, PyArrow, `yfinance`, SSE Streaming |
+| **Full-Stack Engineering** | TypeScript, React 18, Vite, TradingView Lightweight Charts, Monaco Editor, Tailwind CSS |
+| **DevOps & Tooling** | Docker, Docker Compose, Linux, Git, GitHub Actions (CI/CD), SQLite WAL |
 
 ---
 
@@ -37,16 +38,16 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| 🧠 **[LLM Functional Valence](https://github.com/darryll-git/llm-functional-valence)** | Publication-grade research framework investigating functional valence in language models through behavioral choice, zero-leakage linear probing, and causal activation steering. | Python 3.12, PyTorch, `uv`, OpenRouter, SQLite WAL |
 | 📈 **[Quant: Algorithmic Backtesting Terminal](https://github.com/darryll-git/Quant)** | High-performance quantitative trading workspace with in-browser Monaco code editor, TradingView charts, and vectorized Python backtesting engine. | React, TypeScript, FastAPI, PyArrow, SSE |
 | 🩻 **[AI Chest X-Ray Analyzer](https://github.com/darryll-git/xray-report)** | Automated radiological reporting and abnormality detection powered by Vision LLMs and multimodal ML. | Python, Groq Vision, ML, FastAPI |
 | 🔄 **[Reflective-RAG Assistant](https://github.com/darryll-git/reflective-rag)** | Self-evaluating agentic RAG system that detects hallucinations and performs cyclic retrieval refinement. | Python, LangGraph, Vector DB |
 | 📊 **[Predictive Market Intelligence](https://github.com/darryll-git/The-Predictive-Market-Intelligence-Suite)** | End-to-end econometric modeling suite with interactive analytical dashboards and automated deployment. | R, Shiny, Tidymodels, Docker |
-| ⚙️ **[Intelligent Resource Optimizer](https://github.com/darryll-git/The-Intelligent-Resource-Scheduling-Optimizer)** | AI-enhanced constraint-satisfaction scheduling optimizer designed for low-budget hardware. | Python, n8n, Solver, Docker |
 
 ---
 
 <p align="center">
-  💬 Let's talk about <b>Quantitative Finance, Agentic AI, or Systems Architecture</b>!  
+  💬 Open to discussions in <b>Mechanistic Interpretability, Quantitative Finance, or Agentic AI Architectures</b>!  
   <br>
   📫 Reach me directly at: <a href="mailto:darryllfonseca@gmail.com"><b>darryllfonseca@gmail.com</b></a>
 </p>
