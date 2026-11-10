@@ -1,65 +1,52 @@
-<!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Darryll Fonseca</h1>
-<h3 align="center">🚀 Software Engineer | AI Enthusiast | Tech Consultant</h3>
+<h3 align="center">🚀 AI & Machine Learning Engineer | Full-Stack Developer | Systems Thinker</h3>
 
----
-
-<!-- Banner GIF -->
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/08/a7/3c/08a73c33d869cb5acd157c8095399e22.jpg" width="400"/>
-</p>
-
----
-
-<!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/darryll-fonseca/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/darryll-git/">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" alt="GitHub"/>
+  <a href="https://darryll-git.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://darryll-git.github.io/trial-login-signup/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange" alt="Portfolio"/>
+  <a href="mailto:darryllfonseca@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-<!-- About Me -->
 ### 🌟 About Me
-<p style="color:orange; font-size:18px;">
-⚡ Always learning, always building! Passionate about AI, automation, and crafting clean, efficient solutions.
-</p>
+- 🧠 **Focus:** Designing intelligent autonomous systems, agentic RAG architectures, and predictive modeling platforms.
+- 🏢 **Experience:** Applied AI, medical image analysis, combinatorial optimization, and web security.
+- 📍 **Location:** Mumbai, India
 
 ---
 
-<!-- Tech Stack -->
 ### 🛠 Tech Stack
-[![Python](https://img.shields.io/badge/-Python-333?logo=python)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)](https://isocpp.org/)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-333?logo=pytorch)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)](https://www.tensorflow.org/)
-[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
-[![Scrapy](https://img.shields.io/badge/-Scrapy-60A839?logo=scrapy)](https://scrapy.org/)
+
+| Area | Technologies |
+|---|---|
+| **AI / Machine Learning** | Python, PyTorch, LangGraph, Groq Vision LLMs, RAG, Scikit-Learn |
+| **Statistical Modeling & Data** | R (Shiny, Tidyverse, Tidymodels), Pandas, NumPy |
+| **Web & App Development** | TypeScript, React, Vite, Node.js, Streamlit, HTML5/CSS3 |
+| **DevOps & Infrastructure** | Docker, Docker Compose, Git, Linux, GitHub Actions |
 
 ---
 
-<!-- Projects Table -->
 ### 📂 Featured Projects
 
-| Project | Description | ⭐ Stars |
-|---------|-------------|---------|
-| [Website Summarizer](https://github.com/darryll-git/Website-Summarizer) | Summarize any website with ease | ⭐⭐⭐⭐ |
-| [Website Vulnerability Detection](https://github.com/darryll-git/Website-Vulnerability-Checker) | Check for any vulnerabilities in your website | ⭐⭐⭐ |
-| [Amazon Scraper](https://github.com/yourrepo) | Automated product data extraction from Amazon | ⭐⭐⭐⭐ |
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🩻 **[AI Chest X-Ray Analyzer](https://github.com/darryll-git/xray-report)** | Automated radiological reporting and abnormality detection powered by Vision LLMs and multimodal ML. | Python, Groq Vision, ML, FastAPI |
+| 🔄 **[Reflective-RAG Assistant](https://github.com/darryll-git/reflective-rag)** | Self-evaluating agentic RAG system that detects hallucinations and performs cyclic retrieval refinement. | Python, LangGraph, Vector DB |
+| 📊 **[Predictive Market Intelligence](https://github.com/darryll-git/The-Predictive-Market-Intelligence-Suite)** | End-to-end econometric modeling suite with interactive analytical dashboards and automated deployment. | R, Shiny, Tidymodels, Docker |
+| ⚙️ **[Intelligent Resource Optimizer](https://github.com/darryll-git/The-Intelligent-Resource-Scheduling-Optimizer)** | AI-enhanced constraint-satisfaction scheduling optimizer designed for low-budget hardware. | Python, n8n, Solver, Docker |
+| 🛡️ **[Website Vulnerability Checker](https://github.com/darryll-git/Website-Vulnerability-Checker)** | Automated asset crawler and security scanner for common web vulnerabilities. | Node.js, JavaScript |
 
 ---
 
-<!-- Fun Footer -->
 <p align="center">
-  💬 Let’s talk about <b>AI, Automation, and 3D Reconstruction</b>!  
+  💬 Let's talk about <b>Agentic AI, Operations Research, or Quantitative Analytics</b>!  
   <br>
-  📫 Reach me at: <a href="mailto:your.email@example.com">darryllfonseca@gmail.com</a>
+  📫 Reach me directly at: <a href="mailto:darryllfonseca@gmail.com"><b>darryllfonseca@gmail.com</b></a>
 </p>
