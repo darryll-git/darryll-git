@@ -18,7 +18,7 @@
 ### 🌟 About Me
 - 🧠 **Focus:** Designing intelligent autonomous systems, agentic RAG architectures, and predictive modeling platforms.
 - 🏢 **Experience:** Applied AI, medical image analysis, combinatorial optimization, and web security.
-- 📍 **Location:** Mumbai, India
+- 📍 **Location:** Warwick, United Kingdom
 
 ---
 
